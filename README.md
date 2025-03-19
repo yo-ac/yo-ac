@@ -1,10 +1,10 @@
 ## Hi there 👋
 I'm **Andres**, a passionate **Software Developer** with 2+ years of experience!  
 
--🔭 I am Currently working with **React & Node.js**
--🌱 I’m currently learning Next.js, Typescript and Java.
--📫 Reach me at: [LinkedIn] (https://www.linkedin.com/in/andres-castaneda-32630530b/) 
--👯 I’m looking to collaborate on tech projects
+##🔭 I am Currently working with **React & Node.js**
+##🌱 I’m currently learning Next.js, Typescript and Java.
+##📫 Reach me at: [LinkedIn] (https://www.linkedin.com/in/andres-castaneda-32630530b/) 
+#👯 I’m looking to collaborate on tech projects
 
 ## 🛠 Tech Stack
 
