@@ -1,7 +1,5 @@
 ## Hi there 👋
 I'm **Andres**, a passionate **Software Developer** with 2+ years of experience!  
-<!--
-**yo-ac/yo-ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 I am Currently working with **React & Node.js**
 🌱 I’m currently learning Next.js, Typescript and Java.
