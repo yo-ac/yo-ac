@@ -1,5 +1,3 @@
-## Hi there 👋
-I'm **Andres**, a passionate **Software Developer** with 2+ years of experience!  
 ## Hi there 👋  
 I'm **Andres**, a passionate **Software Developer** with 2+ years of experience!  
 
