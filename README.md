@@ -15,7 +15,7 @@ I'm **Andres**, a passionate **Software Developer** with 2+ years of experience!
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🔥 Backend & Databases:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
