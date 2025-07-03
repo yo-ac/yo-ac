@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm **Andres**, a passionate **Software Developer** with 2+ years of experience!  
+I'm **Andres**, a **Software Developer** with 2+ years of experience!  
 
 🔭 I am Currently working with **React, React Native & Node.js**  
 🌱 I’m currently learning **Next.js, TypeScript, and Java**  
